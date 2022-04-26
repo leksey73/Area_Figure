@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area_Figure_NUnitTest", "Ar
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Second_Task", "Second_Task", "{AE4E3E92-DBB5-4E1B-A568-3BA9EFA4A834}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Pictures\Query_products.png = ..\..\..\Pictures\Query_products.png
+		..\..\..\Pictures\Query_products.jpg = ..\..\..\Pictures\Query_products.jpg
 		..\..\..\Documents\SQL Server Management Studio\SQLQuery.sql = ..\..\..\Documents\SQL Server Management Studio\SQLQuery.sql
 	EndProjectSection
 EndProject
