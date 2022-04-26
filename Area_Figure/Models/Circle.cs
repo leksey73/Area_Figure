@@ -15,7 +15,19 @@ namespace Area_Figure.Models
         public Circle(double r = 0)
         {
             R = r;
+            try
+            {
+                if (R <= 0)
+                    throw new Exception("Радиус круга меньше или равен нулю, такого круга не существует!");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"Ошибка: {e.Message}");
+                Console.ReadKey();
+                Console.Clear();
+            }
         }
+
 
         /// <summary>
         /// Данный метод для нахождения площади Круга
