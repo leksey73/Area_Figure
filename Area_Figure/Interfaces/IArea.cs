@@ -6,7 +6,7 @@ namespace Area_Figure.Interfaces
 {
 
     /// <summary>
-    /// Интерфейс для прощади наших фигур
+    /// Интерфейс для площади наших фигур
     /// </summary>
     public interface IArea
     {
