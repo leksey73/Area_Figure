@@ -23,3 +23,5 @@ https://github.com/leksey73/Area_Figure
 https://github.com/leksey12/DECANAT
 
 https://github.com/leksey12/OnlineQueue
+
+Прикрепляю файл Соколов А.О.docx в качестве дополнительного резюме
