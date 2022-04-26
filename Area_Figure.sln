@@ -5,7 +5,13 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area_Figure", "Area_Figure\Area_Figure.csproj", "{3F5ABC1C-5235-4735-B2E8-2BEB31C07596}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area_Figure_NUnitTest", "Area_Figure_NUnitTest\Area_Figure_NUnitTest.csproj", "{142F7BD5-E088-4A6E-8EEA-2B7D036C8728}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area_Figure_NUnitTest", "Area_Figure_NUnitTest\Area_Figure_NUnitTest.csproj", "{142F7BD5-E088-4A6E-8EEA-2B7D036C8728}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Second_Task", "Second_Task", "{AE4E3E92-DBB5-4E1B-A568-3BA9EFA4A834}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Pictures\Query_products.png = ..\..\..\Pictures\Query_products.png
+		..\..\..\Documents\SQL Server Management Studio\SQLQuery.sql = ..\..\..\Documents\SQL Server Management Studio\SQLQuery.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
