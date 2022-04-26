@@ -16,6 +16,7 @@ namespace Area_Figure
             string name_figure = Console.ReadLine();
             sw1(name_figure);
             Console.ReadLine();
+
         }
         static void sw1(string s)
         {
